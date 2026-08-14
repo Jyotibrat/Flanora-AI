@@ -51,4 +51,4 @@ The repository contains:
 ## License
 
 This repository is licensed under the [**GNU General Public License
-v3.0 (GPL-3.0)**](LICENSE).
+v3.0 (GPL-3.0)**]([LICENSE](https://github.com/Jyotibrat/Flanora-AI?tab=GPL-3.0-1-ov-file)).
