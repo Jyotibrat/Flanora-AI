@@ -15,6 +15,7 @@ flanora-ai-v1/
 ├── manual_evaluation.csv
 ├── per_class_results.csv
 ├── reliability_results.csv
+├── wandb_run_history - Flanora AI v1.csv
 └── robustness_results.csv
 ```
 
@@ -29,7 +30,9 @@ validity.
 - **reliability_results.csv** — Reliability and consistency results,
 including Mean Consistency Edge IoU.
 - **robustness_results.csv** — Prompt robustness evaluation results.
+- **wandb_run_history - Flanora AI v1.csv** — Contains wandb logs for training of the model.
 - **evaluation_images/** — Generated images from the evaluation set.
+
 # Overall Results
 
 | Metric | Result |
